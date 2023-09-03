@@ -1,0 +1,1512 @@
+{
+    "Übersetzen": {
+        "English": "Translate",
+        "Case": "Verb",
+        "Speach_Part": "Noun",
+        "Nominative": "Übersetzen ist eine wichtige Fähigkeit.",
+        "Dative": "Ich helfe dir beim Übersetzen.",
+        "Accusative": "Ich werde den Text übersetzen.",
+        "Plural": "Wir werden die Texte übersetzen.",
+        "Genitive": "Die Fähigkeit des Übersetzens ist wichtig."
+    },
+    "Die Verhaltensweise": {
+        "English": "Behavior",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Verhaltensweise des Patienten wurde analysiert.",
+        "Dative": "Die Verhaltensweise der Kinder war vorbildlich.",
+        "Accusative": "Die Verhaltensweise beeinflusst das Ergebnis.",
+        "Plural": "Die Verhaltensweisen beeinflussen das Ergebnis.",
+        "Genitive": "Die Verhaltensweise des Kindes ist bemerkenswert."
+    },
+    "Die Besatzung": {
+        "English": "Occupation",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Besatzung des Schiffes besteht aus erfahrenen Seeleuten.",
+        "Dative": "Die Besatzung des Schiffes besteht aus erfahrenen Seeleuten.",
+        "Accusative": "Die Besatzung betritt das Schiff.",
+        "Plural": "Die Besatzungen betreten die Schiffe.",
+        "Genitive": "Die Besatzung des Schiffes besteht aus erfahrenen Seeleuten."
+    },
+    "Butterartig": {
+        "English": "Butter-like",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die Kekse haben eine butterartige Konsistenz.",
+        "Dative": "Das Croissant schmeckt butterartig.",
+        "Accusative": "Die Margarine schmeckt butterartig.",
+        "Plural": "Die Margarinen schmecken butterartig.",
+        "Genitive": "Der Geschmack des Brotes ist butterartig."
+    },
+    "Der Blutzuckerspiegel": {
+        "English": "Blood Sugar Level",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Blutzuckerspiegel sollte regelmäßig gemessen werden.",
+        "Dative": "Der Blutzuckerspiegel muss regelmäßig kontrolliert werden.",
+        "Accusative": "Der Arzt überprüft den Blutzuckerspiegel.",
+        "Plural": "Die Ärzte überprüfen die Blutzuckerspiegel.",
+        "Genitive": "Die Messung des Blutzuckerspiegels ist notwendig."
+    },
+    "Die Behandlung": {
+        "English": "Treatment",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Behandlung der Krankheit erfordert Geduld.",
+        "Dative": "Die Behandlung der Patienten erfolgt im Krankenhaus.",
+        "Accusative": "Der Arzt beginnt die Behandlung.",
+        "Plural": "Die Ärzte beginnen die Behandlungen.",
+        "Genitive": "Die Wirksamkeit der Behandlung hängt von vielen Faktoren ab."
+    },
+    "Der Verbraucher": {
+        "English": "Consumer",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Verbraucher hat das Recht auf Information.",
+        "Dative": "Der Verbraucher hat das Recht auf Information.",
+        "Accusative": "Der Verbraucher kauft das Produkt.",
+        "Plural": "Die Verbraucher kaufen die Produkte.",
+        "Genitive": "Die Bedürfnisse des Verbrauchers sollten berücksichtigt werden."
+    },
+    "Spenden": {
+        "English": "Donate",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Spenden für wohltätige Zwecke sind willkommen.",
+        "Dative": "Wir spenden Geld für wohltätige Zwecke.",
+        "Accusative": "Ich werde Geld spenden.",
+        "Plural": "Wir werden Geld spenden.",
+        "Genitive": "Die Bereitschaft zu Spenden ist lobenswert."
+    },
+    "Entspanne": {
+        "English": "Relax",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Entspanne dich und genieße den Urlaub.",
+        "Dative": "Entspanne dich und genieße den Urlaub.",
+        "Accusative": "Ich möchte mich entspannen.",
+        "Plural": "Wir möchten uns entspannen.",
+        "Genitive": "Die Kunst der Entspannung ist wichtig für die Gesundheit."
+    },
+    "Die Volksgruppe": {
+        "English": "Ethnic Group",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Volksgruppe hat ihre eigenen Traditionen.",
+        "Dative": "Die Volksgruppe lebt traditionell in dieser Region.",
+        "Accusative": "Die Volksgruppe hat ihre Bräuche.",
+        "Plural": "Die Volksgruppen haben ihre Bräuche.",
+        "Genitive": "Die Kultur der Volksgruppe ist einzigartig."
+    },
+    "Die Rodelbahn": {
+        "English": "Sled Run",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Rodelbahn ist im Winter sehr beliebt.",
+        "Dative": "Die Rodelbahn bietet Spaß für die ganze Familie.",
+        "Accusative": "Die Kinder fahren die Rodelbahn hinunter.",
+        "Plural": "Die Kinder fahren die Rodelbahnen hinunter.",
+        "Genitive": "Die Geschwindigkeit der Rodelbahn ist aufregend."
+    },
+    "Der Zusammenschnitt": {
+        "English": "Compilation",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Zusammenschnitt der besten Szenen wurde gezeigt.",
+        "Dative": "Der Zusammenschnitt der besten Szenen war beeindruckend.",
+        "Accusative": "Der Zusammenschnitt zeigt die besten Szenen.",
+        "Plural": "Die Zusammenschnitte zeigen die besten Szenen.",
+        "Genitive": "Die Qualität des Zusammenschnitts ist beeindruckend."
+    },
+    "Der Breitengrad": {
+        "English": "Latitude",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Breitengrad bestimmt die Entfernung zum Äquator.",
+        "Dative": "Der Breitengrad bestimmt das Klima einer Region.",
+        "Accusative": "Der Breitengrad verläuft um die Erde.",
+        "Plural": "Die Breitengrade verlaufen um die Erde.",
+        "Genitive": "Die Lage des Ortes wird durch den Breitengrad bestimmt."
+    },
+    "Die Meeresbakterien": {
+        "English": "Marine Bacteria",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Meeresbakterien spielen eine wichtige Rolle im Ökosystem.",
+        "Dative": "Die Meeresbakterien spielen eine wichtige Rolle im Ökosystem.",
+        "Accusative": "Die Meeresbakterien spielen eine wichtige Rolle.",
+        "Plural": "Die Meeresbakterien spielen eine wichtige Rolle.",
+        "Genitive": "Die Untersuchung der Meeresbakterien ist interessant."
+    },
+    "Die Grillparty": {
+        "English": "Barbecue Party",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Grillparty am See war ein voller Erfolg.",
+        "Dative": "Die Grillparty bei uns im Garten war ein Erfolg.",
+        "Accusative": "Die Grillparty findet im Garten statt.",
+        "Plural": "Die Grillpartys finden im Garten statt.",
+        "Genitive": "Die Atmosphäre der Grillparty war entspannt."
+    },
+    "Der Bestandteil": {
+        "English": "Component",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Bestandteil des Rezepts ist frisches Gemüse.",
+        "Dative": "Das Vitamin ist ein wichtiger Bestandteil der Ernährung.",
+        "Accusative": "Der Bestandteil ist in jedem Produkt enthalten.",
+        "Plural": "Die Bestandteile sind in jedem Produkt enthalten.",
+        "Genitive": "Die Bedeutung des Bestandteils wird oft unterschätzt."
+    },
+    "Verwirren": {
+        "English": "Confuse",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die vielen Informationen können leicht verwirren.",
+        "Dative": "Die vielen Informationen können leicht verwirren.",
+        "Accusative": "Die vielen Informationen können verwirren.",
+        "Plural": "Die vielen Informationen können verwirren.",
+        "Genitive": "Die Absicht des Autors war, den Leser zu verwirren."
+    },
+    "Geistig": {
+        "English": "Mental",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die geistige Gesundheit ist ebenso wichtig wie die körperliche.",
+        "Dative": "Geistig fit zu bleiben ist wichtig im Alter.",
+        "Accusative": "Die geistige Gesundheit ist wichtig.",
+        "Plural": "Die geistigen Fähigkeiten sind wichtig.",
+        "Genitive": "Die Stärke geistiger Fähigkeiten ist beeindruckend."
+    },
+    "Im Ergebnis": {
+        "English": "In the Result",
+        "Case": "Masculine",
+        "Speach_Part": "Phrase",
+        "Nominative": "Im Ergebnis hat das Team das Spiel gewonnen.",
+        "Dative": "Im Ergebnis der Studie wurden klare Zusammenhänge festgestellt.",
+        "Accusative": "Im Ergebnis hat sich die Situation verbessert.",
+        "Plural": "Im Ergebnis haben sich die Situationen verbessert.",
+        "Genitive": "Die Veränderungen im Ergebnis waren erfreulich."
+    },
+    "Das Blätterdach": {
+        "English": "Canopy",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Blätterdach des Waldes spendet Schatten.",
+        "Dative": "Das Blätterdach des Waldes spendet Schatten.",
+        "Accusative": "Das Blätterdach spendet Schatten.",
+        "Plural": "Die Blätterdächer spenden Schatten.",
+        "Genitive": "Die Schönheit des Blätterdachs im Herbst ist beeindruckend."
+    },
+    "Heranreifen": {
+        "English": "Mature",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die Früchte müssen noch heranreifen, bevor sie geerntet werden können.",
+        "Dative": "Die Früchte müssen erst heranreifen, bevor sie geerntet werden können.",
+        "Accusative": "Die Früchte müssen heranreifen.",
+        "Plural": "Die Früchte müssen heranreifen.",
+        "Genitive": "Die Phase des Heranreifens ist entscheidend."
+    },
+    "Auf etwas gespannt sein": {
+        "English": "Be Curious About Something",
+        "Case": "Phrase",
+        "Speach_Part": "Phrase",
+        "Nominative": "Ich bin auf das Ergebnis gespannt.",
+        "Dative": "Ich bin auf das Ergebnis gespannt.",
+        "Accusative": "Ich bin auf das Ergebnis gespannt.",
+        "Plural": "Wir sind auf die Ergebnisse gespannt.",
+        "Genitive": "Die Neugier auf die Zukunft ist menschlich."
+    },
+    "Einschleusen": {
+        "English": "Introduce",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die neuen Informationen wurden in den Bericht eingeschleust.",
+        "Dative": "Die Polizei konnte den Verdächtigen einschleusen.",
+        "Accusative": "Die Schleuse wird geöffnet, um Wasser einzuschleusen.",
+        "Plural": "Die Schleusen werden geöffnet, um Wasser einzuschleusen.",
+        "Genitive": "Die Methode des Einschleusens muss verbessert werden."
+    },
+    "Eingreifen": {
+        "English": "Interfere",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Das Eingreifen des Arztes war lebensrettend.",
+        "Dative": "Die Feuerwehr musste schnell eingreifen.",
+        "Accusative": "Die Polizei muss eingreifen.",
+        "Plural": "Die Polizei muss eingreifen.",
+        "Genitive": "Die Notwendigkeit des Eingreifens war offensichtlich."
+    },
+    "Der Zusammenhang": {
+        "English": "Connection",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Zusammenhang zwischen Ursache und Wirkung wurde erklärt.",
+        "Dative": "Der Zusammenhang zwischen Ursache und Wirkung wurde erklärt.",
+        "Accusative": "Der Zusammenhang zwischen den beiden Ereignissen ist unklar.",
+        "Plural": "Die Zusammenhänge zwischen den Ereignissen sind unklar.",
+        "Genitive": "Die Bedeutung des Zusammenhangs ist klar."
+    },
+    "Angst haben um": {
+        "English": "Worry About",
+        "Case": "Phrase",
+        "Speach_Part": "Phrase",
+        "Nominative": "Eltern haben oft Angst um ihre Kinder.",
+        "Dative": "Die Eltern haben Angst um ihre Kinder.",
+        "Accusative": "Eltern haben oft Angst um ihre Kinder.",
+        "Plural": "Eltern haben oft Angst um ihre Kinder.",
+        "Genitive": "Die Ängste der Eltern sind verständlich."
+    },
+    "Der Insulinwert": {
+        "English": "Insulin Level",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Insulinwert wurde beim Arzt überprüft.",
+        "Dative": "Der Insulinwert wurde beim Arzt gemessen.",
+        "Accusative": "Der Insulinwert wird regelmäßig gemessen.",
+        "Plural": "Die Ärzte messen die Insulinwerte regelmäßig.",
+        "Genitive": "Die Messung des Insulinwerts ist wichtig."
+    },
+    "Das Rückgrat": {
+        "English": "Backbone",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Rückgrat stützt den gesamten Körper.",
+        "Dative": "Das Rückgrat des Projekts sind engagierte Mitarbeiter.",
+        "Accusative": "Das Rückgrat stützt den Körper.",
+        "Plural": "Die Rückgrate stützen die Körper.",
+        "Genitive": "Die Stärke des Rückgrats ist bewundernswert."
+    },
+    "Das Lebensmittel": {
+        "English": "Food",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Frische Lebensmittel sind für eine gesunde Ernährung wichtig.",
+        "Dative": "Das Lebensmittel sollte im Kühlschrank aufbewahrt werden.",
+        "Accusative": "Das Lebensmittel ist abgelaufen.",
+        "Plural": "Die Lebensmittel sind abgelaufen.",
+        "Genitive": "Die Qualität des Lebensmittels ist entscheidend."
+    },
+    "Die Kernspaltung": {
+        "English": "Nuclear Fission",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Kernspaltung ist ein wichtiger Prozess in der Kernphysik.",
+        "Dative": "Die Kernspaltung ist ein wichtiger Prozess in der Atomphysik.",
+        "Accusative": "Die Kernspaltung erzeugt Energie.",
+        "Plural": "Die Kernspaltungen erzeugen Energie.",
+        "Genitive": "Die Entdeckung der Kernspaltung war bahnbrechend."
+    },
+    "Die Beschleunigung": {
+        "English": "Acceleration",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Beschleunigung des Autos beeindruckte die Passagiere.",
+        "Dative": "Die Beschleunigung des Autos ist beeindruckend.",
+        "Accusative": "Die Beschleunigung des Autos ist beeindruckend.",
+        "Plural": "Die Beschleunigungen der Autos sind beeindruckend.",
+        "Genitive": "Die Wirkung der Beschleunigung ist spürbar."
+    },
+    "Der Brunnen": {
+        "English": "Well",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Brunnen im Park sprudelt frisches Wasser.",
+        "Dative": "Der Brunnen im Park ist ein beliebter Treffpunkt.",
+        "Accusative": "Der Brunnen sprudelt frisches Wasser.",
+        "Plural": "Die Brunnen sprudeln frisches Wasser.",
+        "Genitive": "Die Quelle des Brunnens ist rein."
+    },
+    "Der Sieg": {
+        "English": "Victory",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Sieg im Finale wurde ausgiebig gefeiert.",
+        "Dative": "Der Sieg im Finale war hart erkämpft.",
+        "Accusative": "Der Sieg des Teams wurde gefeiert.",
+        "Plural": "Die Siege der Teams wurden gefeiert.",
+        "Genitive": "Die Freude über den Sieg war groß."
+    },
+    "Verleihen": {
+        "English": "Lend",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die Universität kann einen Abschluss verleihen.",
+        "Dative": "Ich möchte dir meine Bücher verleihen.",
+        "Accusative": "Ich werde dir mein Buch verleihen.",
+        "Plural": "Wir werden dir unsere Bücher verleihen.",
+        "Genitive": "Die Möglichkeit zu Verleihen ist eine Ehre."
+    },
+    "Erstmalig": {
+        "English": "For the First Time",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die erstmalige Begegnung war sehr aufregend.",
+        "Dative": "Die Veranstaltung findet erstmalig statt.",
+        "Accusative": "Die Veranstaltung findet erstmalig statt.",
+        "Plural": "Die Veranstaltungen finden erstmalig statt.",
+        "Genitive": "Die Erfahrung war für ihn erstmalig."
+    },
+    "Der Geschäftsführer": {
+        "English": "Managing Director",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Geschäftsführer leitet das Unternehmen.",
+        "Dative": "Der Geschäftsführer leitet das Unternehmen.",
+        "Accusative": "Der Geschäftsführer leitet das Unternehmen.",
+        "Plural": "Die Geschäftsführer leiten die Unternehmen.",
+        "Genitive": "Die Verantwortung des Geschäftsführers ist groß."
+    },
+    "Die Hirnregion": {
+        "English": "Brain Region",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Hirnregion für das Gedächtnis wurde erforscht.",
+        "Dative": "Die Hirnregion ist für das Denken zuständig.",
+        "Accusative": "Die Hirnregion ist für die Verarbeitung von Informationen zuständig.",
+        "Plural": "Die Hirnregionen sind für die Verarbeitung von Informationen zuständig.",
+        "Genitive": "Die Funktion der Hirnregionen ist komplex."
+    },
+    "Die Vorhersage": {
+        "English": "Prediction",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Vorhersage des Wetters war genau.",
+        "Dative": "Die Vorhersage des Wetters war korrekt.",
+        "Accusative": "Die Vorhersage des Wetters war korrekt.",
+        "Plural": "Die Vorhersagen des Wetters waren korrekt.",
+        "Genitive": "Die Genauigkeit der Vorhersage ist erstaunlich."
+    },
+    "Fröhlich": {
+        "English": "Happy",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die fröhliche Musik brachte alle zum Tanzen.",
+        "Dative": "Die Kinder lachen fröhlich beim Spielen.",
+        "Accusative": "Die Kinder sind fröhlich.",
+        "Plural": "Die Kinder sind fröhlich.",
+        "Genitive": "Die Ausstrahlung der fröhlichen Person ist ansteckend."
+    },
+    "Der Leistungsabfall": {
+        "English": "Drop in Performance",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Leistungsabfall wurde analysiert.",
+        "Dative": "Der Leistungsabfall war deutlich spürbar.",
+        "Accusative": "Der Leistungsabfall war deutlich sichtbar.",
+        "Plural": "Die Leistungsabfälle waren deutlich sichtbar.",
+        "Genitive": "Die Ursache des Leistungsabfalls ist unklar."
+    },
+    "Die Wirkung": {
+        "English": "Effect",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Wirkung des Medikaments setzte schnell ein.",
+        "Dative": "Die Wirkung des Medikaments setzte schnell ein.",
+        "Accusative": "Die Wirkung des Medikaments ist positiv.",
+        "Plural": "Die Wirkungen der Medikamente sind positiv.",
+        "Genitive": "Die Wirkung des Medikaments ist beeindruckend."
+    },
+    "Ersetzen": {
+        "English": "Replace",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Du kannst das defekte Teil ersetzen.",
+        "Dative": "Du kannst das defekte Teil ersetzen.",
+        "Accusative": "Wir müssen das alte Gerät ersetzen.",
+        "Plural": "Wir müssen die alten Geräte ersetzen.",
+        "Genitive": "Die Notwendigkeit des Ersetzens wurde erkannt."
+    },
+    "Umgehen": {
+        "English": "Bypass",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Es ist wichtig, die Regeln nicht zu umgehen.",
+        "Dative": "Du solltest vorsichtig mit dem Gerät umgehen.",
+        "Accusative": "Man kann das Problem umgehen.",
+        "Plural": "Man kann die Probleme umgehen.",
+        "Genitive": "Die Fähigkeit, Hindernisse zu umgehen, ist wichtig."
+    },
+    "Das liegt daran, dass": {
+        "English": "That's Because",
+        "Case": "Phrase",
+        "Speach_Part": "Phrase",
+        "Nominative": "Das liegt daran, dass wir uns gut verstehen.",
+        "Dative": "Das liegt daran, dass die Maschine defekt ist.",
+        "Accusative": "Das liegt daran, dass ich keine Zeit habe.",
+        "Plural": "Das liegt daran, dass wir keine Zeit haben.",
+        "Genitive": "Die Erklärung des Phänomens liegt daran, dass..."
+    },
+    "Freigesetzt": {
+        "English": "Released",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die Schadstoffe wurden in die Umwelt freigesetzt.",
+        "Dative": "Die Vögel wurden freigesetzt und flogen davon.",
+        "Accusative": "Die Chemikalie wurde freigesetzt.",
+        "Plural": "Die Chemikalien wurden freigesetzt.",
+        "Genitive": "Die Chemikalie wurde freigesetzt."
+    },
+    "Hochkarätig": {
+        "English": "High-Quality",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Das Konzert hatte hochkarätige Künstler.",
+        "Dative": "Die hochkarätige Konferenz zog viele Experten an.",
+        "Accusative": "Die Veranstaltung war hochkarätig besetzt.",
+        "Plural": "Die Veranstaltungen waren hochkarätig besetzt.",
+        "Genitive": "Die Veranstaltung war hochkarätig besetzt."
+    },
+    "Schlafend": {
+        "English": "Sleeping",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Der schlafende Hund wurde nicht gestört.",
+        "Dative": "Der Hund lag schlafend in seinem Körbchen.",
+        "Accusative": "Das Baby ist endlich eingeschlafen.",
+        "Plural": "Die Babys sind endlich eingeschlafen.",
+        "Genitive": "Die Ruhe des schlafenden Babys ist kostbar."
+    },
+    "Die Unterstützen": {
+        "English": "Support",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Unterstützen der Organisation sind großzügig.",
+        "Dative": "Die Unterstützen der Familie war großartig.",
+        "Accusative": "Die Unterstützung der Familie ist wichtig.",
+        "Plural": "Die Unterstützungen der Familien sind wichtig.",
+        "Genitive": "Die Unterstützung des Teams ist entscheidend."
+    },
+    "Die Lizenz": {
+        "English": "License",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Lizenz für die Software wurde erneuert.",
+        "Dative": "Die Lizenz zur Nutzung der Software wurde verlängert.",
+        "Accusative": "Die Lizenz wurde verlängert.",
+        "Plural": "Die Lizenzen wurden verlängert.",
+        "Genitive": "Die Gültigkeit der Lizenz muss überprüft werden."
+    },
+    "Das Kreuzfahrtschiff": {
+        "English": "Cruise Ship",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Kreuzfahrtschiff fährt zu exotischen Orten.",
+        "Dative": "Das Kreuzfahrtschiff legte im Hafen an.",
+        "Accusative": "Das Kreuzfahrtschiff legt im Hafen an.",
+        "Plural": "Die Kreuzfahrtschiffe legen im Hafen an.",
+        "Genitive": "Die Größe des Kreuzfahrtschiffs ist beeindruckend."
+    },
+    "Der Stereotyp": {
+        "English": "Stereotype",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Stereotyp des faulen Studenten ist überholt.",
+        "Dative": "Der Stereotyp sollte überwunden werden.",
+        "Accusative": "Der Stereotyp wurde durchbrochen.",
+        "Plural": "Die Stereotypen wurden durchbrochen.",
+        "Genitive": "Die Entstehung des Stereotyps ist komplex."
+    },
+    "Verbinden": {
+        "English": "Connect",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die Brücke verbindet die beiden Ufer des Flusses.",
+        "Dative": "Wir möchten die beiden Welten miteinander verbinden.",
+        "Accusative": "Wir müssen die Kabel verbinden.",
+        "Plural": "Wir müssen die Kabel verbinden.",
+        "Genitive": "Die Fähigkeit, Verbindungen herzustellen, ist wichtig."
+    },
+    "Der Metalldetektor": {
+        "English": "Metal Detector",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Metalldetektor findet versteckte Gegenstände.",
+        "Dative": "Der Metalldetektor piepte, als er Metall fand.",
+        "Accusative": "Der Metalldetektor hat angeschlagen.",
+        "Plural": "Die Metalldetektoren haben angeschlagen.",
+        "Genitive": "Die Genauigkeit des Metalldetektors ist beeindruckend."
+    },
+    "Entfernt": {
+        "English": "Distant",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Das Ziel ist nur wenige Kilometer entfernt.",
+        "Dative": "Der Ort ist weit entfernt von der Stadt.",
+        "Accusative": "Das Ziel ist weit entfernt.",
+        "Plural": "Die Ziele sind weit entfernt.",
+        "Genitive": "Die Entfernung zum Ziel ist kurz."
+    },
+    "Die Onshore-Windkraft": {
+        "English": "Onshore Wind Power",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Onshore-Windkraft liefert saubere Energie.",
+        "Dative": "Die Onshore-Windkraftanlagen erzeugen Strom.",
+        "Accusative": "Die Onshore-Windkraft liefert saubere Energie.",
+        "Plural": "Die Onshore-Windkraftanlagen liefern saubere Energie.",
+        "Genitive": "Die Nutzung der Onshore-Windkraft ist nachhaltig."
+    },
+    "Der Doktortitel": {
+        "English": "Doctorate",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Doktortitel wurde nach jahrelanger Arbeit verliehen.",
+        "Dative": "Der Doktortitel wurde nach jahrelanger Arbeit verliehen.",
+        "Accusative": "Der Doktortitel wird nach jahrelanger Arbeit verliehen.",
+        "Plural": "Die Doktortitel werden nach jahrelanger Arbeit verliehen.",
+        "Genitive": "Die Verleihung des Doktortitels war feierlich."
+    },
+    "Ermöglichen": {
+        "English": "Enable",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die Technologie kann neue Möglichkeiten ermöglichen.",
+        "Dative": "Die Technologie ermöglicht neue Möglichkeiten.",
+        "Accusative": "Die Technologie ermöglicht neue Möglichkeiten.",
+        "Plural": "Die Technologien ermöglichen neue Möglichkeiten.",
+        "Genitive": "Die Technologie ermöglicht eine bessere Kommunikation."
+    },
+    "Die Meeresoberfläche": {
+        "English": "Sea Surface",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Meeresoberfläche glitzerte in der Sonne.",
+        "Dative": "Die Meeresoberfläche glitzerte in der Sonne.",
+        "Accusative": "Die Meeresoberfläche ist ruhig.",
+        "Plural": "Die Meeresoberflächen sind ruhig.",
+        "Genitive": "Die Temperatur der Meeresoberfläche steigt."
+    },
+    "Umstritten": {
+        "English": "Controversial",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die umstrittene Entscheidung führte zu Diskussionen.",
+        "Dative": "Das Thema ist umstritten und führt zu Diskussionen.",
+        "Accusative": "Das Thema ist umstritten.",
+        "Plural": "Die Themen sind umstritten.",
+        "Genitive": "Die Entscheidung war umstritten."
+    },
+    "Die Sehschärfe": {
+        "English": "Visual Acuity",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Sehschärfe kann mit einer Brille verbessert werden.",
+        "Dative": "Die Sehschärfe nimmt im Alter ab.",
+        "Accusative": "Die Sehschärfe kann sich im Alter verschlechtern.",
+        "Plural": "Die Sehschärfen können sich im Alter verschlechtern.",
+        "Genitive": "Die Verbesserung der Sehschärfe ist erfreulich."
+    },
+    "Ausstatten": {
+        "English": "Equip",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Das Labor wurde mit modernen Geräten ausgestattet.",
+        "Dative": "Die Wohnung wurde neu ausgestattet.",
+        "Accusative": "Wir müssen das Büro mit neuen Möbeln ausstatten.",
+        "Plural": "Wir müssen die Büros mit neuen Möbeln ausstatten.",
+        "Genitive": "Die Schule ist gut ausgestattet."
+    },
+    "Beitragen": {
+        "English": "Contribute",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Jeder kann zum Erfolg des Projekts beitragen.",
+        "Dative": "Jeder kann zum Erfolg des Projekts beitragen.",
+        "Accusative": "Jeder kann zum Erfolg beitragen.",
+        "Plural": "Alle können zum Erfolg beitragen.",
+        "Genitive": "Die Spendenaktion kann viel beitragen."
+    },
+    "Der Zeitvertreib": {
+        "English": "Pastime",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Lesen ist mein liebster Zeitvertreib.",
+        "Dative": "Lesen ist mein liebster Zeitvertreib.",
+        "Accusative": "Das Lesen ist mein liebster Zeitvertreib.",
+        "Plural": "Die Spiele sind unser liebster Zeitvertreib.",
+        "Genitive": "Die Wahl des Zeitvertreibs hängt von den Vorlieben ab."
+    },
+    "Rolle Spielen": {
+        "English": "Role Play",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "In dem Theaterstück konnte sie eine Hauptrolle spielen.",
+        "Dative": "Die Eltern spielen eine wichtige Rolle in der Erziehung.",
+        "Accusative": "Die Schauspieler werden eine wichtige Rolle spielen.",
+        "Plural": "Die Schauspieler werden wichtige Rollen spielen.",
+        "Genitive": "Die Fähigkeit, verschiedene Rollen zu spielen, ist beeindruckend."
+    },
+    "Die Lebensdauer": {
+        "English": "Lifespan",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Lebensdauer von Elektrogeräten wird kürzer.",
+        "Dative": "Die Lebensdauer des Produkts wurde verlängert.",
+        "Accusative": "Die Lebensdauer des Produkts ist begrenzt.",
+        "Plural": "Die Lebensdauern der Produkte sind begrenzt.",
+        "Genitive": "Die Lebensdauer des Produkts ist lang."
+    },
+    "Der Hinweis": {
+        "English": "Hint",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Hinweis führte zur Lösung des Rätsels.",
+        "Dative": "Der Hinweis führte zur Lösung des Rätsels.",
+        "Accusative": "Der Hinweis führte zur Lösung des Rätsels.",
+        "Plural": "Die Hinweise führten zur Lösung des Rätsels.",
+        "Genitive": "Die Bedeutung des Hinweises wurde erkannt."
+    },
+    "Vordere": {
+        "English": "Front",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Der vordere Platz ist bereits besetzt.",
+        "Dative": "Die vordere Tür ist defekt.",
+        "Accusative": "Die vordere Reihe ist bereits besetzt.",
+        "Plural": "Die vorderen Reihen sind bereits besetzt.",
+        "Genitive": "Die Sitzplätze in der vorderen Reihe sind begehrt."
+    },
+    "Bejahen": {
+        "English": "Affirm",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die Antwort auf die Frage lautet: Bejahen.",
+        "Dative": "Die Frage wurde bejaht.",
+        "Accusative": "Die Antwort lautet bejahen.",
+        "Plural": "Die Antworten lauten bejahen.",
+        "Genitive": "Die Bestätigung der Antwort war wichtig."
+    },
+    "Die Stromerzeugung": {
+        "English": "Power Generation",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Stromerzeugung aus erneuerbaren Quellen steigt.",
+        "Dative": "Die Stromerzeugung erfolgt durch erneuerbare Energien.",
+        "Accusative": "Die Stromerzeugung erfolgt durch Windkraft.",
+        "Plural": "Die Stromerzeugungen erfolgen durch erneuerbare Energien.",
+        "Genitive": "Die Effizienz der Stromerzeugung wurde gesteigert."
+    },
+    "Das Biolumineszenz-Experiment": {
+        "English": "Bioluminescence Experiment",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Biolumineszenz-Experiment war beeindruckend.",
+        "Dative": "Das Biolumineszenz-Experiment war faszinierend.",
+        "Accusative": "Das Biolumineszenz-Experiment war faszinierend.",
+        "Plural": "Die Biolumineszenz-Experimente waren faszinierend.",
+        "Genitive": "Die Ergebnisse des Biolumineszenz-Experiments waren überraschend."
+    },
+    "Berechtigen": {
+        "English": "Authorize",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die Mitgliedschaft berechtigt zum Zugang.",
+        "Dative": "Der Führerschein berechtigt zum Autofahren.",
+        "Accusative": "Die Mitgliedschaft berechtigt zu bestimmten Vorteilen.",
+        "Plural": "Die Mitgliedschaften berechtigen zu bestimmten Vorteilen.",
+        "Genitive": "Die Voraussetzungen berechtigen zur Teilnahme."
+    },
+    "Die Reise": {
+        "English": "Journey",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Reise führte durch malerische Landschaften.",
+        "Dative": "Die Reise führte durch verschiedene Länder.",
+        "Accusative": "Die Reise führt uns in ferne Länder.",
+        "Plural": "Die Reisen führen uns in ferne Länder.",
+        "Genitive": "Die Planung der Reise war aufregend."
+    },
+    "Die Arbeitszeit": {
+        "English": "Working Hours",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Arbeitszeit beträgt 40 Stunden pro Woche.",
+        "Dative": "Die Arbeitszeit beträgt 40 Stunden pro Woche.",
+        "Accusative": "Die Arbeitszeit beträgt acht Stunden.",
+        "Plural": "Die Arbeitszeiten betragen acht Stunden.",
+        "Genitive": "Die Flexibilität der Arbeitszeit ist ein Vorteil."
+    },
+    "Ausschließlich": {
+        "English": "Exclusively",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die Nutzung ist ausschließlich für Mitglieder.",
+        "Dative": "Die Veranstaltung ist ausschließlich für geladene Gäste.",
+        "Accusative": "Das Produkt ist ausschließlich online erhältlich.",
+        "Plural": "Die Produkte sind ausschließlich online erhältlich.",
+        "Genitive": "Die Verwendung ist ausschließlich für Mitglieder."
+    },
+    "Durchlaufen": {
+        "English": "Go Through",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Der Prozess muss verschiedene Phasen durchlaufen.",
+        "Dative": "Die Bewerber müssen einen Auswahlprozess durchlaufen.",
+        "Accusative": "Der Prozess muss verschiedene Phasen durchlaufen.",
+        "Plural": "Die Prozesse müssen verschiedene Phasen durchlaufen.",
+        "Genitive": "Die Phasen des Durchlaufens müssen verstanden werden."
+    },
+    "Unschätzbar": {
+        "English": "Invaluable",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Der Wert dieses Gemäldes ist unschätzbar.",
+        "Dative": "Der Wert des Gemäldes ist unschätzbar hoch.",
+        "Accusative": "Die Sammlung hat einen unschätzbaren Wert.",
+        "Plural": "Die Sammlung hat einen unschätzbaren Wert.",
+        "Genitive": "Die Sammlung hat einen unschätzbaren Wert."
+    },
+    "Mehrsprachig": {
+        "English": "Multilingual",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die Konferenz war mehrsprachig ausgerichtet.",
+        "Dative": "Die Region ist multikulturell und mehrsprachig.",
+        "Accusative": "Mehrsprachige Menschen können sich gut verständigen.",
+        "Plural": "Die Menschen in dieser Stadt sind mehrsprachig.",
+        "Genitive": "Die Bevölkerung ist mehrsprachig."
+    },
+    "Der Mini-Kleiderschrank": {
+        "English": "Mini Wardrobe",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Mini-Kleiderschrank passt in jedes Zimmer.",
+        "Dative": "Der Mini-Kleiderschrank bietet wenig Platz.",
+        "Accusative": "Der Mini-Kleiderschrank bietet wenig Platz.",
+        "Plural": "Die Mini-Kleiderschränke passen gut in kleine Räume.",
+        "Genitive": "Die Kapazität des Mini-Kleiderschranks ist begrenzt."
+    },
+    "Das Fundament": {
+        "English": "Foundation",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Fundament des Gebäudes wurde verstärkt.",
+        "Dative": "Das Fundament des Hauses ist stabil.",
+        "Accusative": "Das Fundament des Gebäudes ist stabil.",
+        "Plural": "Die Fundamente der Gebäude sind stabil.",
+        "Genitive": "Die Stabilität des Fundaments ist wichtig."
+    },
+    "In den Griff bekommen": {
+        "English": "Get a Handle On",
+        "Case": "Phrase",
+        "Speach_Part": "Phrase",
+        "Nominative": "Er konnte seine Probleme in den Griff bekommen.",
+        "Dative": "Wir müssen das Problem in den Griff bekommen.",
+        "Accusative": "Man muss das Problem in den Griff bekommen.",
+        "Plural": "Wir müssen die Probleme in den Griff bekommen.",
+        "Genitive": "Die Fähigkeit, Probleme in den Griff zu bekommen, ist entscheidend."
+    },
+    "Der Schlaganfall": {
+        "English": "Stroke",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Schlaganfall erfordert sofortige medizinische Hilfe.",
+        "Dative": "Der Schlaganfall erfordert schnelle medizinische Hilfe.",
+        "Accusative": "Der Schlaganfall erfordert sofortige medizinische Hilfe.",
+        "Plural": "Die Schlaganfälle erfordern sofortige medizinische Hilfe.",
+        "Genitive": "Die Symptome des Schlaganfalls sind ernst."
+    },
+    "Ultimativ": {
+        "English": "Ultimativ",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Das ultimative Ziel war endlich erreicht.",
+        "Dative": "Das ultimative Ziel ist der Weltfrieden.",
+        "Accusative": "Die Entscheidung ist ultimativ.",
+        "Plural": "Die Entscheidungen sind ultimativ.",
+        "Genitive": "Die ultimative Lösung wurde gefunden."
+    },
+    "Das Softwareunternehmen": {
+        "English": "Software Company",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Softwareunternehmen entwickelt innovative Lösungen.",
+        "Dative": "Das Softwareunternehmen entwickelt innovative Lösungen.",
+        "Accusative": "Das Softwareunternehmen entwickelt innovative Lösungen.",
+        "Plural": "Die Softwareunternehmen entwickeln innovative Lösungen.",
+        "Genitive": "Die Gründung des Softwareunternehmens war mutig."
+    },
+    "Der Verursacher": {
+        "English": "Cause",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Verursacher des Unfalls wurde ermittelt.",
+        "Dative": "Der Verursacher des Unfalls ist bekannt.",
+        "Accusative": "Der Verursacher des Unfalls wurde ermittelt.",
+        "Plural": "Die Verursacher der Probleme wurden ermittelt.",
+        "Genitive": "Die Identifizierung des Verursachers war schwierig."
+    },
+    "Der Angstzustand": {
+        "English": "State of Anxiety",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Angstzustand war überwältigend.",
+        "Dative": "Der Angstzustand kann belastend sein.",
+        "Accusative": "Der Angstzustand kann belastend sein.",
+        "Plural": "Die Angstzustände können belastend sein.",
+        "Genitive": "Die Bewältigung des Angstzustands erfordert Geduld."
+    },
+    "Die Aufsicht": {
+        "English": "Supervision",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Aufsicht über das Projekt liegt beim Teamleiter.",
+        "Dative": "Die Aufsicht über die Baustelle wurde verstärkt.",
+        "Accusative": "Die Aufsicht sorgt für die Einhaltung der Regeln.",
+        "Plural": "Die Aufsichten sorgen für die Einhaltung der Regeln.",
+        "Genitive": "Die Aufsicht über das Projekt ist wichtig."
+    },
+    "Die Geschichtsforschung": {
+        "English": "Historical Research",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Geschichtsforschung deckt viele Geheimnisse auf.",
+        "Dative": "Die Geschichtsforschung ist spannend.",
+        "Accusative": "Die Geschichtsforschung ist spannend.",
+        "Plural": "Die Geschichtsforschungen sind spannend.",
+        "Genitive": "Die Vielfalt der Geschichtsforschung ist faszinierend."
+    },
+    "Die Zündung": {
+        "English": "Ignition",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Zündung des Motors erfolgte per Knopfdruck.",
+        "Dative": "Die Zündung des Motors funktionierte nicht.",
+        "Accusative": "Die Zündung des Motors erfolgt per Knopfdruck.",
+        "Plural": "Die Zündungen der Motoren erfolgen per Knopfdruck.",
+        "Genitive": "Die Funktion der Zündung wurde überprüft."
+    },
+    "Bestehen (aus, in)": {
+        "English": "Consist Of/In",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Der Kuchen besteht aus vielen Schichten.",
+        "Dative": "Die Suppe besteht aus frischen Zutaten.",
+        "Accusative": "Die Prüfung besteht aus mehreren Teilen.",
+        "Plural": "Die Prüfungen bestehen aus verschiedenen Aufgaben.",
+        "Genitive": "Die Prüfung besteht aus verschiedenen Teilen."
+    },
+    "Das Glücksempfinden": {
+        "English": "Sense of Happiness",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Glücksempfinden hängt von vielen Faktoren ab.",
+        "Dative": "Das Glücksempfinden hängt von vielen Faktoren ab.",
+        "Accusative": "Das Glücksempfinden ist subjektiv.",
+        "Plural": "Die Glücksempfinden sind individuell.",
+        "Genitive": "Die Bedeutung des Glücksempfindens ist individuell."
+    },
+    "Vielfältig": {
+        "English": "Diverse",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die Vielfalt der Kulturen bereichert unsere Gesellschaft.",
+        "Dative": "Die Möglichkeiten sind vielfältig.",
+        "Accusative": "Die Kultur ist vielfältig.",
+        "Plural": "Die Kulturen sind vielfältig.",
+        "Genitive": "Die Kulturen in der Stadt sind vielfältig."
+    },
+    "Die Verarbeitung": {
+        "English": "Processing",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Verarbeitung von Daten erfordert spezielle Software.",
+        "Dative": "Die Verarbeitung des Materials ist hochwertig.",
+        "Accusative": "Die Verarbeitung der Daten dauert einige Zeit.",
+        "Plural": "Die Verarbeitungen der Informationen dauern einige Zeit.",
+        "Genitive": "Die Qualität der Verarbeitung ist hoch."
+    },
+    "Der Planet": {
+        "English": "Planet",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Erde ist der dritte Planet im Sonnensystem.",
+        "Dative": "Der Planet Erde ist unsere Heimat.",
+        "Accusative": "Der Planet Erde ist unsere Heimat.",
+        "Plural": "Die Planeten in unserem Sonnensystem sind faszinierend.",
+        "Genitive": "Die Zukunft des Planeten liegt in unseren Händen."
+    },
+    "Aus der Ferne": {
+        "English": "From Afar",
+        "Case": "Feminine",
+        "Speach_Part": "Phrase",
+        "Nominative": "Aus der Ferne sah alles kleiner aus.",
+        "Dative": "Aus der Ferne betrachtet, sieht alles klein aus.",
+        "Accusative": "Ich beobachte das Geschehen aus der Ferne.",
+        "Plural": "Wir beobachten die Ereignisse aus der Ferne.",
+        "Genitive": "Die Erkennung ist auch aus der Ferne möglich."
+    },
+    "Das Fortschreiten": {
+        "English": "Progression",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Fortschreiten der Krankheit war beunruhigend.",
+        "Dative": "Das Fortschreiten der Krankheit konnte gestoppt werden.",
+        "Accusative": "Das Fortschreiten der Krankheit ist besorgniserregend.",
+        "Plural": "Die Fortschreiten der Krankheiten ist besorgniserregend.",
+        "Genitive": "Die Fortschritte in der Technologie sind erstaunlich."
+    },
+    "Die Notdurft": {
+        "English": "Necessity",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Notdurft muss im Freien erledigt werden.",
+        "Dative": "Die Notdurft erledigte er im Wald.",
+        "Accusative": "Die Notdurft muss im Freien erledigt werden.",
+        "Plural": "Die Notdurft muss im Freien erledigt werden.",
+        "Genitive": "Die Erfüllung der Notdurft ist wichtig."
+    },
+    "Die Eiscreme": {
+        "English": "Ice Cream",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Eiscreme schmilzt schnell an heißen Tagen.",
+        "Dative": "Die Eiscreme schmeckt erfrischend.",
+        "Accusative": "Ich esse gerne Eiscreme.",
+        "Plural": "Wir essen gerne verschiedene Sorten Eiscreme.",
+        "Genitive": "Die Sorten der Eiscreme sind vielfältig."
+    },
+    "Das Gleichgewicht": {
+        "English": "Balance",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Gleichgewicht ist wichtig für die Stabilität.",
+        "Dative": "Das Gleichgewicht ist wichtig für die Koordination.",
+        "Accusative": "Das Gleichgewicht ist wichtig für die Stabilität.",
+        "Plural": "Die Gleichgewichte sind wichtig für die Stabilität.",
+        "Genitive": "Die Aufrechterhaltung des Gleichgewichts ist herausfordernd."
+    },
+    "Der Feiertag": {
+        "English": "Holiday",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Feiertag wird mit einer Parade gefeiert.",
+        "Dative": "Der Feiertag wird im Kreis der Familie gefeiert.",
+        "Accusative": "Der Feiertag wird mit Festlichkeiten begangen.",
+        "Plural": "Die Feiertage werden mit Festlichkeiten begangen.",
+        "Genitive": "Die Bedeutung des Feiertags wurde vergessen."
+    },
+    "Die Gesundheitsversorgung": {
+        "English": "Healthcare",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Gesundheitsversorgung ist ein Grundrecht.",
+        "Dative": "Die Gesundheitsversorgung ist gut ausgebaut.",
+        "Accusative": "Die Gesundheitsversorgung sollte für alle zugänglich sein.",
+        "Plural": "Die Gesundheitsversorgungen sollten für alle zugänglich sein.",
+        "Genitive": "Die Qualität der Gesundheitsversorgung ist entscheidend."
+    },
+    "Das 3D-Druckverfahren": {
+        "English": "3D Printing Process",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das 3D-Druckverfahren ermöglicht individuelle Produkte.",
+        "Dative": "Das 3D-Druckverfahren ermöglicht neue Designs.",
+        "Accusative": "Das 3D-Druckverfahren ermöglicht komplexe Modelle.",
+        "Plural": "Die 3D-Druckverfahren ermöglichen komplexe Modelle.",
+        "Genitive": "Die Anwendung des 3D-Druckverfahrens wächst."
+    },
+    "Die Inspiration": {
+        "English": "Inspiration",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Inspiration für das Kunstwerk kam plötzlich.",
+        "Dative": "Die Inspiration für das Gemälde kam aus der Natur.",
+        "Accusative": "Die Inspiration für das Kunstwerk kam aus der Natur.",
+        "Plural": "Die Inspirationen für die Kunstwerke kommen aus der Natur.",
+        "Genitive": "Die Quelle der Inspiration ist vielfältig."
+    },
+    "Die Lebensqualität": {
+        "English": "Quality of Life",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Lebensqualität hängt von vielen Faktoren ab.",
+        "Dative": "Die Lebensqualität in der Stadt ist hoch.",
+        "Accusative": "Die Lebensqualität in der Stadt ist hoch.",
+        "Plural": "Die Lebensqualitäten in der Stadt sind hoch.",
+        "Genitive": "Die Verbesserung der Lebensqualität ist ein Ziel."
+    },
+    "Die Laktose": {
+        "English": "Lactose",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Laktose ist ein Bestandteil von Milchprodukten.",
+        "Dative": "Die Laktose in der Milch kann Probleme verursachen.",
+        "Accusative": "Die Laktose kann Magenbeschwerden verursachen.",
+        "Plural": "Die Laktosen können Magenbeschwerden verursachen.",
+        "Genitive": "Die Verträglichkeit von Laktose ist individuell."
+    },
+    "Das Architekturstudium": {
+        "English": "Architectural Studies",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Architekturstudium erfordert Kreativität.",
+        "Dative": "Das Architekturstudium dauert mehrere Jahre.",
+        "Accusative": "Das Architekturstudium erfordert Kreativität.",
+        "Plural": "Die Architekturstudien erfordern Kreativität.",
+        "Genitive": "Die Anforderungen des Architekturstudiums sind hoch."
+    },
+    "Der Brief": {
+        "English": "Letter",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Brief wurde mit einer persönlichen Nachricht geschrieben.",
+        "Dative": "Der Brief wurde mit der Post verschickt.",
+        "Accusative": "Der Brief wurde gestern verschickt.",
+        "Plural": "Die Briefe wurden gestern verschickt.",
+        "Genitive": "Die Inhalte des Briefs sind vertraulich."
+    },
+    "Die Fahrkarte": {
+        "English": "Ticket",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Fahrkarte berechtigt zur Nutzung der öffentlichen Verkehrsmittel.",
+        "Dative": "Die Fahrkarte gilt für eine Hin- und Rückfahrt.",
+        "Accusative": "Die Fahrkarte berechtigt zur Fahrt im Zug.",
+        "Plural": "Die Fahrkarten berechtigen zur Fahrt im Zug.",
+        "Genitive": "Die Gültigkeit der Fahrkarte muss überprüft werden."
+    },
+    "Die Stimmlage": {
+        "English": "Voice Pitch",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Stimmlage des Sängers beeindruckte das Publikum.",
+        "Dative": "Die Stimmlage des Sängers war beeindruckend.",
+        "Accusative": "Die Stimmlage des Sängers ist beeindruckend.",
+        "Plural": "Die Stimmlagen der Sänger sind beeindruckend.",
+        "Genitive": "Die Vielfalt der Stimmlagen ist beeindruckend."
+    },
+    "Verändern": {
+        "English": "Change",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Verändern Sie Ihre Gewohnheiten für ein gesünderes Leben.",
+        "Dative": "Wir können die Welt zum Besseren verändern.",
+        "Accusative": "Wir müssen unser Verhalten verändern.",
+        "Plural": "Wir müssen unsere Gewohnheiten verändern.",
+        "Genitive": "Die Bereitschaft zur Veränderung ist wichtig."
+    },
+    "Der Gewebelappen": {
+        "English": "Tissue Flap",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Gewebelappen wurde zur Reinigung verwendet.",
+        "Dative": "Der Gewebelappen wird für die Reinigung verwendet.",
+        "Accusative": "Der Gewebelappen wird in der Medizin verwendet.",
+        "Plural": "Die Gewebelappen werden in der Medizin verwendet.",
+        "Genitive": "Die Reinigung mit dem Gewebelappen war erfolgreich."
+    },
+    "Die Wasseroberfläche": {
+        "English": "Water Surface",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Wasseroberfläche spiegelte den blauen Himmel.",
+        "Dative": "Die Wasseroberfläche glitzerte im Sonnenlicht.",
+        "Accusative": "Die Wasseroberfläche glitzert in der Sonne.",
+        "Plural": "Die Wasseroberflächen glitzern in der Sonne.",
+        "Genitive": "Die Ruhe auf der Wasseroberfläche war entspannend."
+    },
+    "In Verbindung bringen": {
+        "English": "Associate",
+        "Case": "Phrase",
+        "Speach_Part": "Phrase",
+        "Nominative": "Man sollte keine Gerüchte in Verbindung bringen.",
+        "Dative": "Wir sollten das nicht in Verbindung bringen.",
+        "Accusative": "Ich kann die beiden Ereignisse miteinander in Verbindung bringen.",
+        "Plural": "Ich kann die beiden Ereignisse miteinander in Verbindung bringen.",
+        "Genitive": "Die Fähigkeit, Dinge in Verbindung zu bringen, ist nützlich."
+    },
+    "Die Nachbarschaft": {
+        "English": "Neighborhood",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Nachbarschaft ist freundlich und hilfsbereit.",
+        "Dative": "Die Nachbarschaft ist freundlich und hilfsbereit.",
+        "Accusative": "Die Nachbarschaft ist freundlich.",
+        "Plural": "Die Nachbarschaften sind freundlich.",
+        "Genitive": "Die Atmosphäre in der Nachbarschaft ist freundlich."
+    },
+    "Die Inschrift": {
+        "English": "Inscription",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Inschrift auf dem Denkmal ist gut erhalten.",
+        "Dative": "Die Inschrift auf dem Denkmal erinnert an die Geschichte.",
+        "Accusative": "Die Inschrift auf dem Denkmal ist schwer leserlich.",
+        "Plural": "Die Inschriften auf den Denkmälern sind schwer lesbar.",
+        "Genitive": "Die Bedeutung der Inschrift ist historisch."
+    },
+    "Durchhalten": {
+        "English": "Persist",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Durchhalten und hart arbeiten führt zum Erfolg.",
+        "Dative": "Durchhalten ist wichtig, um Ziele zu erreichen.",
+        "Accusative": "Du musst durchhalten, um erfolgreich zu sein.",
+        "Plural": "Ihr müsst durchhalten, um erfolgreich zu sein.",
+        "Genitive": "Die Entschlossenheit, durchzuhalten, wurde belohnt."
+    },
+    "Berücksichtigen": {
+        "English": "Consider",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Bitte berücksichtigen Sie unsere Vorschläge.",
+        "Dative": "Bitte berücksichtigen Sie unsere Vorschläge.",
+        "Accusative": "Bitte berücksichtigen Sie die Hinweise.",
+        "Plural": "Bitte berücksichtigt die Hinweise.",
+        "Genitive": "Die Möglichkeit, alle Aspekte zu berücksichtigen, ist wichtig."
+    },
+    "Die Verwandlung": {
+        "English": "Transformation",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Verwandlung der Raupe zum Schmetterling ist faszinierend.",
+        "Dative": "Die Verwandlung des Raums war erstaunlich.",
+        "Accusative": "Die Verwandlung des Raumes war erstaunlich.",
+        "Plural": "Die Verwandlungen der Räume waren erstaunlich.",
+        "Genitive": "Die Geschwindigkeit der Verwandlung ist erstaunlich."
+    },
+    "Das Flugticket": {
+        "English": "Flight Ticket",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Flugticket wurde online gebucht.",
+        "Dative": "Das Flugticket ist für morgen gebucht.",
+        "Accusative": "Das Flugticket ist gebucht.",
+        "Plural": "Die Flugtickets sind gebucht.",
+        "Genitive": "Die Buchung des Flugtickets war einfach."
+    },
+    "Ausgeben": {
+        "English": "Spend",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Er gibt sein Geld für gute Zwecke aus.",
+        "Dative": "Er gibt sein Geld für Bücher aus.",
+        "Accusative": "Ich gebe mein Geld nicht gerne aus.",
+        "Plural": "Wir geben unser Geld nicht gerne aus.",
+        "Genitive": "Die Gewohnheit, Geld auszugeben, sollte kontrolliert werden."
+    },
+    "Aufweisen": {
+        "English": "Show",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die Studie konnte positive Ergebnisse aufweisen.",
+        "Dative": "Die Statistik weist deutliche Unterschiede auf.",
+        "Accusative": "Das Experiment weist interessante Ergebnisse auf.",
+        "Plural": "Die Experimente weisen interessante Ergebnisse auf.",
+        "Genitive": "Die Präsentation wird viele Details aufweisen."
+    },
+    "Das Kernkraftwerk": {
+        "English": "Nuclear Power Plant",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Kernkraftwerk liefert Strom für die Region.",
+        "Dative": "Das Kernkraftwerk liefert elektrische Energie.",
+        "Accusative": "Das Kernkraftwerk liefert Strom.",
+        "Plural": "Die Kernkraftwerke liefern Strom.",
+        "Genitive": "Die Sicherheit des Kernkraftwerks ist entscheidend."
+    },
+    "Das Verständnis": {
+        "English": "Understanding",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Verständnis zwischen den beiden Parteien ist wichtig.",
+        "Dative": "Das Verständnis der Materie ist wichtig.",
+        "Accusative": "Das Verständnis für die Materie ist wichtig.",
+        "Plural": "Die Verständnisse für die Materie sind wichtig.",
+        "Genitive": "Die Tiefe des Verständnisses ist bewundernswert."
+    },
+    "Vorteilhaft": {
+        "English": "Advantageous",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die vorteilhafte Lage des Hauses bietet eine tolle Aussicht.",
+        "Dative": "Die vorteilhafte Lage des Hauses gefällt mir.",
+        "Accusative": "Die neuen Regelungen sind vorteilhaft.",
+        "Plural": "Die neuen Regelungen sind vorteilhaft.",
+        "Genitive": "Die Vereinbarung ist für beide Seiten vorteilhaft."
+    },
+    "Das Besatzungsmitglied": {
+        "English": "Crew Member",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Besatzungsmitglied kümmert sich um die Passagiere.",
+        "Dative": "Das Besatzungsmitglied arbeitet hart auf dem Schiff.",
+        "Accusative": "Das Besatzungsmitglied arbeitet auf dem Schiff.",
+        "Plural": "Die Besatzungsmitglieder arbeiten auf den Schiffen.",
+        "Genitive": "Die Verantwortung des Besatzungsmitglieds ist klar."
+    },
+    "Die Gemeinsamkeit": {
+        "English": "Commonality",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Gemeinsamkeit der beiden ist ihre Liebe zur Musik.",
+        "Dative": "Die Gemeinsamkeit der Geschwister ist die Liebe zur Musik.",
+        "Accusative": "Die Gemeinsamkeit verbindet die beiden.",
+        "Plural": "Die Gemeinsamkeiten verbinden die Menschen.",
+        "Genitive": "Die Gemeinsamkeit der Interessen verbindet sie."
+    },
+    "Die Rückbildung": {
+        "English": "Regression",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Rückbildung nach der Geburt dauert einige Wochen.",
+        "Dative": "Die Rückbildung nach der Geburt dauert einige Zeit.",
+        "Accusative": "Die Rückbildung nach der Geburt dauert einige Zeit.",
+        "Plural": "Die Rückbildungen nach der Geburt dauern einige Zeit.",
+        "Genitive": "Die Dauer der Rückbildung ist individuell."
+    },
+    "Die Zustimmung": {
+        "English": "Approval",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Zustimmung der Eltern ist erforderlich.",
+        "Dative": "Die Zustimmung der Eltern ist wichtig.",
+        "Accusative": "Die Zustimmung der Eltern ist notwendig.",
+        "Plural": "Die Zustimmungen der Eltern sind notwendig.",
+        "Genitive": "Die Zustimmung der Eltern ist wichtig."
+    },
+    "Die Überlebensfähigkeit": {
+        "English": "Viability",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Überlebensfähigkeit der Art ist gefährdet.",
+        "Dative": "Die Überlebensfähigkeit der Art ist gefährdet.",
+        "Accusative": "Die Überlebensfähigkeit der Art ist gefährdet.",
+        "Plural": "Die Überlebensfähigkeiten der Arten sind gefährdet.",
+        "Genitive": "Die Anpassungsfähigkeit ist entscheidend für die Überlebensfähigkeit."
+    },
+    "Gemein": {
+        "English": "Common",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Es ist gemein, andere auszulachen.",
+        "Dative": "Gemein sein ist nicht fair.",
+        "Accusative": "Das Verhalten war gemein.",
+        "Plural": "Die Handlungen waren gemein.",
+        "Genitive": "Die Handlungen waren gemein und ungerecht."
+    },
+    "Die Zugverbindung": {
+        "English": "Train Connection",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Zugverbindung war pünktlich und bequem.",
+        "Dative": "Die Zugverbindung war pünktlich.",
+        "Accusative": "Die Zugverbindung war pünktlich.",
+        "Plural": "Die Zugverbindungen waren pünktlich.",
+        "Genitive": "Die Pünktlichkeit der Zugverbindung ist wichtig."
+    },
+    "Durchführen": {
+        "English": "Carry Out",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Die Experten werden die Untersuchung durchführen.",
+        "Dative": "Wir müssen das Experiment durchführen.",
+        "Accusative": "Wir müssen das Experiment durchführen.",
+        "Plural": "Wir müssen die Experimente durchführen.",
+        "Genitive": "Die Fähigkeit, Experimente durchzuführen, ist notwendig."
+    },
+    "Der Sicherheitsgurt": {
+        "English": "Seatbelt",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Sicherheitsgurt ist im Auto unverzichtbar.",
+        "Dative": "Der Sicherheitsgurt muss immer angelegt sein.",
+        "Accusative": "Vergiss nicht, den Sicherheitsgurt anzulegen.",
+        "Plural": "Vergesst nicht, die Sicherheitsgurte anzulegen.",
+        "Genitive": "Die Verwendung des Sicherheitsgurts ist Pflicht."
+    },
+    "Am Liebsten": {
+        "English": "Preferably",
+        "Case": "Adverb",
+        "Speach_Part": "Adv",
+        "Nominative": "Am liebsten verbringe ich Zeit mit meiner Familie.",
+        "Dative": "Am liebsten esse ich Schokolade.",
+        "Accusative": "Am liebsten esse ich Schokolade.",
+        "Plural": "Am liebsten essen wir Schokolade.",
+        "Genitive": "Die Aktivitäten, die er am liebsten mag, sind vielfältig."
+    },
+    "Das Befriedigung": {
+        "English": "Satisfaction",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Befriedigung der Kundenwünsche hat oberste Priorität.",
+        "Dative": "Die Befriedigung der Bedürfnisse ist wichtig.",
+        "Accusative": "Die Befriedigung der Kunden ist unser Ziel.",
+        "Plural": "Die Befriedigungen der Kunden sind unser Ziel.",
+        "Genitive": "Die Suche nach Befriedigung ist menschlich."
+    },
+    "Ans Licht bringen": {
+        "English": "Reveal",
+        "Case": "Phrase",
+        "Speach_Part": "Phrase",
+        "Nominative": "Die Wahrheit ans Licht zu bringen, war schwierig.",
+        "Dative": "Wir müssen die Wahrheit ans Licht bringen.",
+        "Accusative": "Wir müssen die Wahrheit ans Licht bringen.",
+        "Plural": "Wir müssen die Wahrheit ans Licht bringen.",
+        "Genitive": "Die Enthüllung der Wahrheit bringt Klarheit."
+    },
+    "Das Ausmaß": {
+        "English": "Extent",
+        "Case": "Neuter",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Ausmaß der Katastrophe war verheerend.",
+        "Dative": "Das Ausmaß der Zerstörung war enorm.",
+        "Accusative": "Das Ausmaß des Schadens ist enorm.",
+        "Plural": "Die Ausmaße des Schadens sind enorm.",
+        "Genitive": "Die Auswirkungen des Unfalls sind noch nicht klar."
+    },
+    "Der Verlust": {
+        "English": "Loss",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Verlust des geliebten Haustiers war schmerzhaft.",
+        "Dative": "Der Verlust des Freundes traf ihn schwer.",
+        "Accusative": "Der Verlust des Handys ist ärgerlich.",
+        "Plural": "Die Verluste der Firma sind bedauerlich.",
+        "Genitive": "Die Trauer über den Verlust ist tief."
+    },
+    "Die Kreislaufwirtschaft": {
+        "English": "Circular Economy",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Kreislaufwirtschaft reduziert Abfall und Ressourcenverbrauch.",
+        "Dative": "Die Kreislaufwirtschaft schont die Ressourcen.",
+        "Accusative": "Die Kreislaufwirtschaft ist nachhaltig.",
+        "Plural": "Die Kreislaufwirtschaften sind nachhaltig.",
+        "Genitive": "Die Idee der Kreislaufwirtschaft gewinnt an Bedeutung."
+    },
+    "Insgesamt": {
+        "English": "Overall",
+        "Case": "Adverb",
+        "Speach_Part": "Adv",
+        "Nominative": "Insgesamt waren alle sehr zufrieden mit dem Ergebnis.",
+        "Dative": "Insgesamt sind wir zufrieden mit dem Ergebnis.",
+        "Accusative": "Insgesamt war die Veranstaltung ein Erfolg.",
+        "Plural": "Insgesamt waren die Veranstaltungen ein Erfolg.",
+        "Genitive": "Die Gesamtbewertung des Projekts ist positiv."
+    },
+    "Der Spaziergang": {
+        "English": "Stroll",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Spaziergang im Park war erholsam.",
+        "Dative": "Der Spaziergang im Park war entspannend.",
+        "Accusative": "Der Spaziergang im Park war entspannend.",
+        "Plural": "Die Spaziergänge im Park waren entspannend.",
+        "Genitive": "Die Entspannung beim Spaziergang war angenehm."
+    },
+    "Wiederwenden": {
+        "English": "Turn Around",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Wiederwenden und nochmals lesen.",
+        "Dative": "Wir sollten uns bald wiederwenden.",
+        "Accusative": "Wir sollten uns wiederwenden und nach Hause gehen.",
+        "Plural": "Wir sollten uns wiederwenden und nach Hause gehen.",
+        "Genitive": "Die Freude über das Wiederwenden war groß."
+    },
+    "Stattdessen": {
+        "English": "Instead",
+        "Case": "Adverb",
+        "Speach_Part": "Adv",
+        "Nominative": "Statt Kuchen gab es stattdessen frisches Obst.",
+        "Dative": "Ich esse Gemüse, stattdessen von Fleisch.",
+        "Accusative": "Statt Kaffee trinke ich Tee.",
+        "Plural": "Stattdessen trinke ich Wasser.",
+        "Genitive": "Die Entscheidung war stattdessen eine andere."
+    },
+    "Der Wolkenkratzer": {
+        "English": "Skyscraper",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Wolkenkratzer ragt hoch in den Himmel.",
+        "Dative": "Der Wolkenkratzer überragt die Stadt.",
+        "Accusative": "Der Wolkenkratzer ragt in den Himmel.",
+        "Plural": "Die Wolkenkratzer ragen in den Himmel.",
+        "Genitive": "Die Höhe des Wolkenkratzers ist beeindruckend."
+    },
+    "Die Fünfling": {
+        "English": "Pentagon",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Fünfling sind eine besondere Herausforderung.",
+        "Dative": "Die Fünfling sind eine seltene Erscheinung.",
+        "Accusative": "Die Fünfling sind eine Seltenheit.",
+        "Plural": "Die Fünflinge sind eine Seltenheit.",
+        "Genitive": "Die Geburt der Fünfling war eine Sensation."
+    },
+    "Die Fremdsprache": {
+        "English": "Foreign Language",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Das Lernen einer Fremdsprache erweitert den Horizont.",
+        "Dative": "Die Fremdsprache zu lernen ist eine Herausforderung.",
+        "Accusative": "Die Fremdsprache zu lernen ist herausfordernd.",
+        "Plural": "Die Fremdsprachen zu lernen ist herausfordernd.",
+        "Genitive": "Die Beherrschung der Fremdsprache ist beeindruckend."
+    },
+    "Der Erfolg": {
+        "English": "Success",
+        "Case": "Masculine",
+        "Speach_Part": "Noun",
+        "Nominative": "Der Erfolg war das Ergebnis harter Arbeit.",
+        "Dative": "Der Erfolg des Projekts wurde gefeiert.",
+        "Accusative": "Der Erfolg des Projekts ist beeindruckend.",
+        "Plural": "Die Erfolge des Teams sind beeindruckend.",
+        "Genitive": "Die Bedeutung des Erfolgs wurde erkannt."
+    },
+    "Die Wassermelone": {
+        "English": "Watermelon",
+        "Case": "Feminine",
+        "Speach_Part": "Noun",
+        "Nominative": "Die Wassermelone ist eine erfrischende Frucht.",
+        "Dative": "Die Wassermelone ist erfrischend im Sommer.",
+        "Accusative": "Die Wassermelone ist saftig und süß.",
+        "Plural": "Die Wassermelonen sind saftig und süß.",
+        "Genitive": "Die Süße der Wassermelone war erfrischend."
+    },
+    "Gering": {
+        "English": "Low",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die Wahrscheinlichkeit ist gering.",
+        "Dative": "Die Chancen auf Erfolg sind gering.",
+        "Accusative": "Die Chancen stehen gering.",
+        "Plural": "Die Chancen stehen gering.",
+        "Genitive": "Die Chancen auf Erfolg waren gering."
+    },
+    "Anbieten": {
+        "English": "Offer",
+        "Case": "Verb",
+        "Speach_Part": "Verb",
+        "Nominative": "Wir können Ihnen verschiedene Optionen anbieten.",
+        "Dative": "Kannst du mir bitte einen Kaffee anbieten?",
+        "Accusative": "Kannst du mir Hilfe anbieten?",
+        "Plural": "Können Sie uns Unterstützung anbieten?",
+        "Genitive": "Die Bereitschaft, Hilfe anzubieten, ist lobenswert."
+    },
+    "Ansteckend": {
+        "English": "Contagious",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die gute Laune ist ansteckend.",
+        "Dative": "Die Krankheit ist hoch ansteckend.",
+        "Accusative": "Die Krankheit ist hoch ansteckend.",
+        "Plural": "Die Krankheiten sind hoch ansteckend.",
+        "Genitive": "Die Stimmung war ansteckend und fröhlich."
+    },
+    "Gemeinnützig": {
+        "English": "Nonprofit",
+        "Case": "Adjective",
+        "Speach_Part": "Adj",
+        "Nominative": "Die gemeinnützige Organisation unterstützt Bedürftige.",
+        "Dative": "Die Organisation arbeitet gemeinnützig für die Gesellschaft.",
+        "Accusative": "Die gemeinnützige Organisation hilft Bedürftigen.",
+        "Plural": "Die Organisation ist gemeinnützig und hilft Bedürftigen.",
+        "Genitive": "Die Organisation setzt sich für gemeinnützige Zwecke ein."
+    }
+}
